@@ -5,7 +5,7 @@ import Post from './Post.jsx'
 
 function Feed() {
     return (
-      <div className="App">
+      <div className="feed">
         <Post></Post>
         <Post></Post>
         <Post></Post>

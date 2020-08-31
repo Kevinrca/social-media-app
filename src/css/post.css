@@ -1,0 +1,12 @@
+.post {
+    background-color: rgb(235, 235, 235);
+
+    width: 600px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.post__content {
+    background-color: lightgray;
+}

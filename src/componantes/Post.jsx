@@ -11,8 +11,7 @@ function Post() {
         </div>
 
         <div className="post__interactions">
-            <div className="likesCount">80 likes</div>
-            <div className="commentsCount">5 comments</div>
+            <div className="interactionsCount">80 likes | 2 comments</div>
             <div className="commentList">
                 <div className="comment">
                     <h5 className="comment__name">Jean Michel</h5>

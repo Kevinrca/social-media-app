@@ -7,6 +7,10 @@ function App() {
   return (
     <div className="App">
       <h1>Social Media App</h1>
+      {/* HEADER */}
+      
+      {/* FEED */}
+          
       <Feed></Feed>
     </div>
   );
